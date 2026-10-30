@@ -146,14 +146,11 @@ More of our public Frappe / ERPNext apps live on our company account **[@adimyra
 
 ## 👨‍💻 Our team
 
-<table>
+<table align="center">
 <tr>
-<td align="center" width="180">
-<a href="https://github.com/itsfaiyaz">
-<img src="https://github.com/itsfaiyaz.png" width="100" alt="Md Faiyaz Ansari" /><br />
-<b>Md Faiyaz Ansari</b>
-</a><br />
-<sub>Senior Software Developer<br />Frappe / ERPNext · adiLIMS</sub>
+<td align="center">
+<a href="https://github.com/itsfaiyaz"><img src="https://images.weserv.nl/?url=github.com/itsfaiyaz.png&w=120&h=120&fit=cover&mask=circle" width="56" height="56" alt="Md Faiyaz Ansari" /></a><br />
+<sub><b>Md Faiyaz Ansari</b><br />Senior Software Developer</sub>
 </td>
 </tr>
 </table>
