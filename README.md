@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12291f,100:4e6b45&height=170&section=header&text=Adimyra%20Systems&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Private%20Limited%20%C2%B7%20Since%202023&descAlignY=56&descSize=16" width="100%" alt="Adimyra Systems" />
+<a href="https://adimyra.com"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:12291f,100:4e6b45&height=170&section=header&text=Adimyra%20Systems&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Private%20Limited%20%C2%B7%20Since%202023&descAlignY=56&descSize=16" width="100%" alt="Adimyra Systems" /></a>
 
 <p align="center">
   <img src="https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dadimyra.com/assets/adimyra_hub/adi/images/adimyra_favicon.png%26w%3D110%26bg%3Dwhite&w=170&h=170&fit=contain&we&cbg=white&mask=circle&mbg=transparent&output=png" alt="Adimyra Systems logo" width="130" />
