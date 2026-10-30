@@ -30,6 +30,56 @@ We build **industry-specific ERP and enterprise software** on **ERPNext** and th
 | 5+ Years | 50+ Deployments | 30+ Active Clients | 10+ Industries | 95% Client Retention |
 |:---:|:---:|:---:|:---:|:---:|
 
+## 📦 Our products
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ adiCloud
+
+**Launch your own Frappe / ERPNext site in minutes.**
+
+Create and host your own Frappe & ERPNext sites on our cloud, with no server setup needed.
+
+`Frappe` · `ERPNext` · `Managed Hosting`
+
+</td>
+<td width="50%" valign="top">
+
+### ✉️ adiMAIL
+
+**Professional email for every business, and free mail for everyone.**
+
+Organizations get mailboxes on their own company domain (you@yourcompany.com), and individuals can sign up for a **free personal mailbox**.
+
+`Business Email` · `Custom Domain` · `Free Personal Mail`
+
+</td>
+</tr>
+</table>
+
+### 🧩 adi apps: built by Adimyra
+
+Premium apps deeply integrated with ERPNext. Pick them when you create your site on **adiCloud**, or add them later. [Browse all apps →](https://adimyra.com/adi/apps)
+
+| App | What it does | Status |
+|---|---|:---:|
+| **adiBILL** | Simple billing for newcomers, familiar for Busy / Tally users: sales, purchase, payments and stock on ERPNext | ✅ Live |
+| **Adi AI** | Talk to your ERP: an AI assistant that creates orders, checks stock and runs reports | ✅ Live |
+| **Adi WhatsApp** | Send invoices, order updates and payment reminders on WhatsApp, straight from ERPNext | ✅ Live |
+| **adiHRMS** | Human resource management | ✅ Live |
+| **adiConnect** | Mobile HR management app | ✅ Live |
+| **adiLIMS** | Laboratory information system for pathology labs | ✅ Live |
+| **adiFleet** | Fleet & logistics management | ✅ Live |
+| **adiAUTO** | Automotive workshop management | ✅ Live |
+| **adiPOS** | Point of sale | ✅ Live |
+| **Adi WMS** | Barcode-driven picking, putaway and cycle counts for warehouses | 🔜 Coming soon |
+| **adiTally** | Accounting & finance platform | 🔜 Coming soon |
+| **adiShipment** | Shiprocket + ERPNext shipping | 🔜 Coming soon |
+
+Every adiCloud plan also includes free open-source apps: **ERPNext, Frappe HR, Frappe CRM, Frappe Helpdesk, Frappe Insights, Frappe Builder, India Compliance** and **Adi Shipment**.
+
 ## 🚀 What we do
 
 - **ERPNext implementation & customization**: accounting, inventory, manufacturing, HR and more
