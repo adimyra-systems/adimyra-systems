@@ -74,9 +74,11 @@ Premium apps deeply integrated with ERPNext. Pick them when you create your site
 | **adiFleet** | Fleet & logistics management | ✅ Live |
 | **adiAUTO** | Automotive workshop management | ✅ Live |
 | **adiPOS** | Point of sale | ✅ Live |
-| **Adi WMS** | Barcode-driven picking, putaway and cycle counts for warehouses | 🔜 Coming soon |
-| **adiTally** | Accounting & finance platform | 🔜 Coming soon |
-| **adiShipment** | Shiprocket + ERPNext shipping | 🔜 Coming soon |
+| **Adi WMS** | Barcode-driven picking, putaway and cycle counts for ERPNext warehouses | ✅ Live |
+| **adiTally** | Accounting & finance platform | ✅ Live |
+| **adiShipment** | Shiprocket + ERPNext shipping: book couriers, print labels and track shipments | ✅ Live |
+
+> 🚧 **And more on the way:** several new adi apps and projects are in active development. Stay tuned!
 
 Every adiCloud plan also includes free open-source apps: **ERPNext, Frappe HR, Frappe CRM, Frappe Helpdesk, Frappe Insights, Frappe Builder, India Compliance** and **Adi Shipment**.
 
