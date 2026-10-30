@@ -136,6 +136,20 @@ Every adiCloud plan also includes free open-source apps: **ERPNext, Frappe HR, F
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
+## 👨‍💻 Our team
+
+<table>
+<tr>
+<td align="center" width="180">
+<a href="https://github.com/itsfaiyaz">
+<img src="https://github.com/itsfaiyaz.png" width="100" alt="Md Faiyaz Ansari" /><br />
+<b>Md Faiyaz Ansari</b>
+</a><br />
+<sub>Senior Software Developer<br />Frappe / ERPNext · adiLIMS</sub>
+</td>
+</tr>
+</table>
+
 ## ✅ Why Adimyra
 
 `ERPNext Expertise` · `Rust Performance` · `100% Customizable` · `Open Source Core` · `Enterprise Security & SSL` · `GST & E-Invoice Ready` · `24/7 Support`
