@@ -13,6 +13,7 @@
 [![Website](https://img.shields.io/badge/Website-adimyra.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adimyra.com)
 [![Email](https://img.shields.io/badge/Email-care@adimyra.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:care@adimyra.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adimyra%20Systems-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/adimyra-systems/)
+[![GitHub](https://img.shields.io/badge/GitHub-@adimyra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adimyra)
 [![Facebook](https://img.shields.io/badge/Facebook-adimyraofficial-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adimyraofficial)
 [![Instagram](https://img.shields.io/badge/Instagram-adimyra__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adimyra_official)
 [![Book a Demo](https://img.shields.io/badge/Book%20a%20Demo-Google%20Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)](https://adimyra.com)
@@ -135,6 +136,13 @@ Every adiCloud plan also includes free open-source apps: **ERPNext, Frappe HR, F
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
+
+## 🌐 Open source
+
+More of our public Frappe / ERPNext apps live on our company account **[@adimyra](https://github.com/adimyra)**:
+
+- **[adiSiteCare](https://github.com/adimyra/adiSiteCare)**: backup, restore and site care for Frappe / ERPNext, right from Desk. No SSH, no MariaDB root password.
+- **[Adi-Shipment](https://github.com/adimyra/Adi-Shipment)**: Shiprocket shipping inside ERPNext.
 
 ## 👨‍💻 Our team
 
