@@ -1,5 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12291f,100:4e6b45&height=170&section=header&text=Adimyra%20Systems&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Private%20Limited%20%C2%B7%20Since%202019&descAlignY=56&descSize=16" width="100%" alt="Adimyra Systems" />
+
 <p align="center">
-  <img src="https://adimyra.com/assets/adimyra_hub/adi/images/adimyra_favicon.png" alt="Adimyra Systems logo" width="140" />
+  <img src="https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dadimyra.com/assets/adimyra_hub/adi/images/adimyra_favicon.png%26w%3D110%26bg%3Dwhite&w=170&h=170&fit=contain&we&cbg=white&mask=circle&mbg=transparent&output=png" alt="Adimyra Systems logo" width="130" />
 </p>
 
 <div align="center">
@@ -7,6 +9,8 @@
 # Adimyra Systems Private Limited
 
 ### Transform your business with the **adi** ecosystem
+
+<a href="https://adimyra.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=620&lines=ERPNext+%26+Frappe+Framework+Experts;High-performance+Rust+%2B+PostgreSQL+Systems;adiCloud+%C2%B7+adiMAIL+%C2%B7+adi+apps;Serving+clients+globally+since+2019" alt="Typing animation" /></a>
 
 **ERPNext & Frappe Framework experts · High-performance Rust systems · React-driven headless ERP · Since 2019**
 
@@ -146,12 +150,10 @@ More of our public Frappe / ERPNext apps live on our company account **[@adimyra
 
 ## 👨‍💻 Our team
 
-<table align="center">
+<table>
 <tr>
-<td align="center">
-<a href="https://github.com/itsfaiyaz"><img src="https://images.weserv.nl/?url=github.com/itsfaiyaz.png&w=120&h=120&fit=cover&mask=circle" width="56" height="56" alt="Md Faiyaz Ansari" /></a><br />
-<sub><b>Md Faiyaz Ansari</b><br />Senior Software Developer</sub>
-</td>
+<td><a href="https://github.com/itsfaiyaz"><img src="https://images.weserv.nl/?url=github.com/itsfaiyaz.png&w=96&h=96&fit=cover&mask=circle" width="40" height="40" alt="Md Faiyaz Ansari" /></a></td>
+<td><a href="https://github.com/itsfaiyaz"><b>Md Faiyaz Ansari</b></a><br /><sub>Senior Software Developer</sub></td>
 </tr>
 </table>
 
@@ -168,3 +170,5 @@ More of our public Frappe / ERPNext apps live on our company account **[@adimyra
 **[adimyra.com](https://adimyra.com)** · **[care@adimyra.com](mailto:care@adimyra.com)** · **[Facebook](https://www.facebook.com/adimyraofficial)** · **[Instagram](https://www.instagram.com/adimyra_official)** · **[LinkedIn](https://www.linkedin.com/company/adimyra-systems/)**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e6b45,100:12291f&height=110&section=footer" width="100%" alt="" />
