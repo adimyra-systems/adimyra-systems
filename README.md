@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12291f,100:4e6b45&height=170&section=header&text=Adimyra%20Systems&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Private%20Limited%20%C2%B7%20Since%202019&descAlignY=56&descSize=16" width="100%" alt="Adimyra Systems" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12291f,100:4e6b45&height=170&section=header&text=Adimyra%20Systems&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Private%20Limited%20%C2%B7%20Since%202023&descAlignY=56&descSize=16" width="100%" alt="Adimyra Systems" />
 
 <p align="center">
   <img src="https://images.weserv.nl/?url=images.weserv.nl/%3Furl%3Dadimyra.com/assets/adimyra_hub/adi/images/adimyra_favicon.png%26w%3D110%26bg%3Dwhite&w=170&h=170&fit=contain&we&cbg=white&mask=circle&mbg=transparent&output=png" alt="Adimyra Systems logo" width="130" />
@@ -10,9 +10,9 @@
 
 ### Transform your business with the **adi** ecosystem
 
-<a href="https://adimyra.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=620&lines=ERPNext+%26+Frappe+Framework+Experts;High-performance+Rust+%2B+PostgreSQL+Systems;adiCloud+%C2%B7+adiMAIL+%C2%B7+adi+apps;Serving+clients+globally+since+2019" alt="Typing animation" /></a>
+<a href="https://adimyra.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=620&lines=ERPNext+%26+Frappe+Framework+Experts;High-performance+Rust+%2B+PostgreSQL+Systems;adiCloud+%C2%B7+adiMAIL+%C2%B7+adi+apps;Serving+clients+globally+since+2023" alt="Typing animation" /></a>
 
-**ERPNext & Frappe Framework experts · High-performance Rust systems · React-driven headless ERP · Since 2019**
+**ERPNext & Frappe Framework experts · High-performance Rust systems · React-driven headless ERP · Since 2023**
 
 [![Website](https://img.shields.io/badge/Website-adimyra.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adimyra.com)
 [![Email](https://img.shields.io/badge/Email-care@adimyra.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:care@adimyra.com)
@@ -32,7 +32,7 @@ We build **industry-specific ERP and enterprise software** on **ERPNext** and th
 
 > *Don't change your business for software.* We design the software around the way **your** business already runs.
 
-| 5+ Years | 50+ Deployments | 30+ Active Clients | 10+ Industries | 95% Client Retention |
+| 3+ Years | 50+ Deployments | 30+ Active Clients | 10+ Industries | 95% Client Retention |
 |:---:|:---:|:---:|:---:|:---:|
 
 ## 📦 Our products
